@@ -1,0 +1,20 @@
+{
+  "name": "goldmine-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "goldmine": "./solution.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "jetty": "^0.2.1",
+    "terminal-kit": "^1.43.0"
+  }
+}
